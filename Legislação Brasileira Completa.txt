@@ -1,0 +1,230 @@
+Estrutura Institucional, Dinâmica Legislativa e Arquitetura Remuneratória do Estado Brasileiro
+Fundamentos Constitucionais e o Modelo Político Brasileiro
+O ordenamento político do Brasil fundamenta-se na forma republicana de governo, no regime democrático representativo e na estrutura de Estado federativa, consubstanciados na Constituição de 1988. A operação do poder estatal assenta-se no princípio da tripartição funcional dos Três Poderes — Executivo, Legislativo e Judiciário —, concebidos como instâncias autônomas, independentes e coordenadas. No modelo institucional brasileiro, essa harmonia funcional é mantida por meio de um sistema de freios e contrapesos (checks and balances), no qual cada polo de autoridade detém prerrogativas explícitas para fiscalizar e contrabalancear os atos dos demais. O Executivo possui o poder de veto sobre leis aprovadas pelo Legislativo; o Legislativo tem a prerrogativa de derrubar vetos presidenciais, autorizar tratados internacionais e fiscalizar as contas governamentais com o auxílio do Tribunal de Contas da União; e o Judiciário exerce o controle difuso e concentrado de constitucionalidade dos diplomas legais emanados do Parlamento e dos decretos do Chefe de Estado.
+O arranjo governamental opera sob a tipologia conceitual do presidencialismo de coalizão. A conjugação entre o sistema eleitoral proporcional de lista aberta para a Câmara dos Deputados e uma acentuada fragmentação multipartidária inviabiliza que o Presidente da República governe sustentado unicamente por sua bancada partidária de origem. A obtenção de maioria legislativa no Congresso Nacional demanda uma negociação contínua e institucionalizada entre o Palácio do Planalto e as lideranças partidárias no Parlamento, envolvendo a distribuição proporcional de pastas ministeriais, o compartilhamento da gestão de órgãos estratégicos da administração pública e a garantia de alocações de recursos em emendas orçamentárias. A estabilidade política e a capacidade de aprovação de reformas dependem da densidade e da coesão dos blocos parlamentares e das federações partidárias formadas no Congresso.
+O pacto federativo, por sua vez, estrutura a descentralização territorial em quatro esferas dotadas de autonomia política, administrativa e financeira: a União, os 26 Estados, o Distrito Federal e os municípios. A Carta Magna consagra a competência material e legislativa por meio de competências privativas exclusivas da União (como segurança monetária, defesa nacional e direito processual), concorrentes entre a União e os Estados (abrangendo direito tributário, penitenciário e planejamento financeiro) e privativas locais pertencentes aos municípios, cuja atuação foca no interesse estritamente local e na prestação de serviços urbanos essenciais.
+O Congresso Nacional: Dinâmica Regimental e o Rito Legislativo
+O Parlamento brasileiro adota o bicameralismo federativo, constituindo-se de dois órgãos distintos que compõem o Congresso Nacional: a Câmara dos Deputados, configurada como a representação popular proporcional ao tamanho populacional de cada estado, e o Senado Federal, estruturado como o órgão de equilíbrio federativo que assegura paridade absoluta de representação aos estados e ao Distrito Federal. O modelo constitucional não impõe subordinação hierárquica entre as Casas legislativas. Ressalvadas as competências exclusivas conferidas individualmente a cada câmara, todo projeto de lei ordinária ou complementar submetido a uma Casa necessita, obrigatoriamente, da revisão substantiva e formal da outra antes de seguir para a sanção do Poder Executivo.
+A Câmara dos Deputados: Governança Interna e Condução Parlamentar
+A Câmara dos Deputados rege-se pelas normas de seu Regimento Interno (RICD - Resolução nº 17 de 1989 e atualizações subsequentes), operando com base em 513 parlamentares. A gestão legislativa e administrativa do órgão repousa sobre a Mesa Diretora, composta por onze membros efetivos — um Presidente, dois Vice-Presidentes e quatro Secretários — além de quatro suplentes. A eleição dos integrantes da Mesa ocorre no início da legislatura para um biênio, sendo rigorosamente condicionada ao princípio da proporcionalidade partidária ou dos blocos parlamentares legalmente registrados. Ao Presidente da Casa recai a atribuição monocrática e estratégica de pautar as votações do plenário, conduzir as sessões deliberativas e julgar liminarmente a admissibilidade formal de denúncias por crime de responsabilidade formuladas contra o Presidente da República.
+A definição da agenda de deliberações e a redução de conflitos em plenário ocorrem por intermédio do Colégio de Líderes, instância que congrega os líderes das representações partidárias, dos blocos legislativos, da Maioria, da Minoria, do Governo, da Oposição e das bancadas institucionais representativas da bancada feminina e da bancada negra. Esse fórum debate os requerimentos de urgência e constrói consensos prévios que balizam a formação da Ordem do Dia. No tocante ao mérito material das proposições, a Câmara organiza suas atividades em 25 comissões permanentes e diversas comissões temporárias, incluindo as Comissões Parlamentares de Inquérito (CPIs). Grande parcela da legislação federal tramita e se esgota no âmbito do poder conclusivo das comissões temáticas, dispensando a deliberação do plenário a menos que haja recurso formal subscrito por parcela qualificada de deputados. Caso uma proposição de iniciativa do Executivo tramite sob urgência constitucional ou uma Medida Provisória atinja 45 dias de tramitação sem desfecho, opera-se o sobrestamento ou trancamento de pauta, impedindo qualquer deliberação comum no plenário até a apreciação prioritária da referida matéria.
+O Senado Federal: Competências Exclusivas e Estabilidade Federativa
+O Senado Federal organiza seu funcionamento a partir do Regimento Interno do Senado Federal (RISF - Resolução nº 93 de 1970 consolidada), contando com 81 parlamentares. Por ser concebido como o guardião dos interesses dos estados da Federação, o constituinte originário conferiu ao Senado competências privativas exclusivas (artigo 52 da Constituição), desempenhadas com independência total da Câmara Baixa. Dentre tais atribuições exclusivas, cabe ao Senado processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade, bem como Ministros do Supremo Tribunal Federal, membros do Conselho Nacional de Justiça, do Conselho Nacional do Ministério Público, o Procurador-Geral da República e o Advogado-Geral da União.
+Compete igualmente ao Senado a realização de sabatinas públicas prévias, seguidas de votação secreta, para aprovar magistrados indicados a tribunais superiores, ministros do Tribunal de Contas da União, o Presidente e diretores do Banco Central do Brasil e os chefes de missões diplomáticas de caráter permanente perante nações estrangeiras. No terreno fiscal e financeiro, o Senado é o órgão responsável privativamente por fixar os limites globais e as condições para a contratação de operações de crédito externo e interno de todos os entes federados — União, Estados, Distrito Federal e Municípios —, exercendo uma tutela estabilizadora sobre a higidez do endividamento público soberano.
+Espécies Normativas e Quóruns de Deliberação
+O processo legislativo brasileiro está tipificado no artigo 59 da Constituição da República e delineia o conjunto articulado de regras procedimentais destinadas à produção formal de normas do ordenamento jurídico. A tabela a seguir sintetiza as espécies normativas formais, indicando seus requisitos de propositura, o rito procedimental e a respectiva exigência numérica de votos em cada uma das Casas do Parlamento:
+| Espécie Normativa | Iniciativa e Procedimento Regimental | Quórum Constitucional de Aprovação | Exigência Numérica (Câmara / Senado) |
+|---|---|---|---|
+| Proposta de Emenda à Constituição (PEC) | 1/3 dos Deputados ou Senadores; Presidente da República; ou mais da metade das Assembleias Legislativas dos Estados. | Qualificada (três quintos dos membros) em dois turnos de votação em cada Casa legislativa. | Mínimo de 308 deputados federais e 49 senadores em ambas as votações. |
+| Lei Complementar (LC) | Parlamentares, Comissões, Presidente da República, STF, Tribunais Superiores, PGR ou iniciativa popular. | Maioria Absoluta (primeiro número inteiro superior à metade do quadro total). | Mínimo de 257 deputados federais e 41 senadores. |
+| Lei Ordinária (LO) | Parlamentares, Comissões, Presidente da República, STF, Tribunais Superiores, PGR ou iniciativa popular. | Maioria Simples ou Relativa (maioria dos votos dos parlamentares presentes na sessão). | Metade mais um dos presentes (com quórum mínimo de abertura de 257 deputados ou 41 senadores). |
+| Medida Provisória (MPV) | Prerrogativa privativa do Presidente da República em casos de relevância e urgência incontestáveis. | Maioria Simples em ambas as Casas; submete-se a parecer prévio de Comissão Mista. | Votos favoráveis da maioria dos parlamentares presentes na respectiva sessão plenária. |
+| Decreto Legislativo (PDL) | Iniciativa privativa de parlamentares ou órgãos do Congresso Nacional para temas externos de sua alçada. | Maioria Simples no Plenário em sessões bicamerais ou nas deliberações conjuntas do Congresso. | Maioria dos presentes em votação aberta ou simbólica. |
+Após tramitar pelas duas Casas legislativas e obter aprovação final, o projeto é remetido à sanção do Presidente da República. O Executivo dispõe de 15 dias úteis para manifestar sua concordância expressa ou apor veto, parcial ou total, baseado em razões de inconstitucionalidade jurídica ou de contrariedade ao interesse público. O veto presidencial é remetido ao Congresso Nacional para apreciação em sessão conjunta deliberativa, só podendo ser derrubado e rejeitado se alcançar o voto contrário da maioria absoluta de deputados (257 votos) e de senadores (41 votos), culminando na obrigatoriedade de sua promulgação.
+Mapeamento Completo dos 81 Senadores da República
+O Senado Federal é formado por 81 membros, assegurando rigorosa isonomia de representação aos 26 estados federados e ao Distrito Federal, contando cada unidade territorial com uma delegação fixa de três senadores. Os parlamentares cumprem mandato de oito anos, sucedendo-se a renovação da composição a cada quadriênio de modo alternado por um terço (27 cadeiras) e por dois terços (54 cadeiras) da representação parlamentar. A tabela a seguir reúne a totalidade dos 81 senadores da República em exercício, distribuídos pelas suas respectivas Unidades da Federação, vínculos partidários e períodos de vigência de seus mandatos constitucionais:
+| Unidade Federativa (UF) | Nome Parlamentar | Partido Político | Mandato Constitucional |
+|---|---|---|---|
+| Acre (AC) | Alan Rick | REPUBLICANOS | 2023 – 2031 |
+| Acre (AC) | Marcio Bittar | PL | 2019 – 2027 |
+| Acre (AC) | Sérgio Petecão | PSD | 2019 – 2027 |
+| Alagoas (AL) | Dra. Eudócia | PSDB | 2019 – 2027 |
+| Alagoas (AL) | Renan Calheiros | MDB | 2019 – 2027 |
+| Alagoas (AL) | Renan Filho | MDB | 2023 – 2031 |
+| Amapá (AP) | Davi Alcolumbre | UNIÃO | 2023 – 2031 |
+| Amapá (AP) | Lucas Barreto | PSD | 2019 – 2027 |
+| Amapá (AP) | Randolfe Rodrigues | PT | 2019 – 2027 |
+| Amazonas (AM) | Eduardo Braga | MDB | 2019 – 2027 |
+| Amazonas (AM) | Omar Aziz | PSD | 2023 – 2031 |
+| Amazonas (AM) | Plínio Valério | PSDB | 2019 – 2027 |
+| Bahia (BA) | Angelo Coronel | REPUBLICANOS | 2019 – 2027 |
+| Bahia (BA) | Jaques Wagner | PT | 2019 – 2027 |
+| Bahia (BA) | Otto Alencar | PSD | 2023 – 2031 |
+| Ceará (CE) | Camilo Santana | PT | 2023 – 2031 |
+| Ceará (CE) | Cid Gomes | PSB | 2019 – 2027 |
+| Ceará (CE) | Sargento Reginauro | PSDB | 2019 – 2027 |
+| Distrito Federal (DF) | Damares Alves | REPUBLICANOS | 2023 – 2031 |
+| Distrito Federal (DF) | Izalci Lucas | PL | 2019 – 2027 |
+| Distrito Federal (DF) | Leany Lemos | PSB | 2019 – 2027 |
+| Espírito Santo (ES) | Fabiano Contarato | PT | 2019 – 2027 |
+| Espírito Santo (ES) | Magno Malta | PL | 2023 – 2031 |
+| Espírito Santo (ES) | Marcos do Val | AVANTE | 2019 – 2027 |
+| Goiás (GO) | Jorge Kajuru | PSB | 2019 – 2027 |
+| Goiás (GO) | Vanderlan Cardoso | PSD | 2019 – 2027 |
+| Goiás (GO) | Wilder Morais | PL | 2023 – 2031 |
+| Maranhão (MA) | Ana Paula Lobato | PSB | 2023 – 2031 |
+| Maranhão (MA) | Eliziane Gama | PSD | 2019 – 2027 |
+| Maranhão (MA) | Weverton | PDT | 2019 – 2027 |
+| Mato Grosso (MT) | Carlos Fávaro | PSD | 2019 – 2027 |
+| Mato Grosso (MT) | Jayme Campos | UNIÃO | 2019 – 2027 |
+| Mato Grosso (MT) | Wellington Fagundes | PL | 2023 – 2031 |
+| Mato Grosso do Sul (MS) | Nelsinho Trad | PSD | 2019 – 2027 |
+| Mato Grosso do Sul (MS) | Soraya Thronicke | PSB | 2019 – 2027 |
+| Mato Grosso do Sul (MS) | Tereza Cristina | PP | 2023 – 2031 |
+| Minas Gerais (MG) | Carlos Viana | PSD | 2019 – 2027 |
+| Minas Gerais (MG) | Cleitinho | REPUBLICANOS | 2023 – 2031 |
+| Minas Gerais (MG) | Renzo Braz | PP | 2019 – 2027 |
+| Pará (PA) | Beto Faro | PT | 2023 – 2031 |
+| Pará (PA) | Jader Barbalho | MDB | 2019 – 2027 |
+| Pará (PA) | Zequinha Marinho | PODE | 2019 – 2027 |
+| Paraíba (PB) | Daniella Ribeiro | PP | 2019 – 2027 |
+| Paraíba (PB) | Efraim Filho | PL | 2023 – 2031 |
+| Paraíba (PB) | Veneziano Vital do Rêgo | MDB | 2019 – 2027 |
+| Paraná (PR) | Flávio Arns | PSB | 2019 – 2027 |
+| Paraná (PR) | Oriovisto Guimarães | PSDB | 2019 – 2027 |
+| Paraná (PR) | Sergio Moro | PL | 2023 – 2031 |
+| Pernambuco (PE) | Fernando Dueire | PSD | 2019 – 2027 |
+| Pernambuco (PE) | Humberto Costa | PT | 2019 – 2027 |
+| Pernambuco (PE) | Teresa Leitão | PT | 2023 – 2031 |
+| Piauí (PI) | Ciro Nogueira | PP | 2019 – 2027 |
+| Piauí (PI) | Jussara Lima | PSD | 2023 – 2031 |
+| Piauí (PI) | Marcelo Castro | MDB | 2019 – 2027 |
+| Rio de Janeiro (RJ) | Carlos Portinho | PL | 2019 – 2027 |
+| Rio de Janeiro (RJ) | Flávio Bolsonaro | PL | 2019 – 2027 |
+| Rio de Janeiro (RJ) | Romário | Sem Partido | 2023 – 2031 |
+| Rio Grande do Norte (RN) | Rogerio Marinho | PL | 2023 – 2031 |
+| Rio Grande do Norte (RN) | Styvenson Valentim | PODE  | 2019 – 2027 |
+| Rio Grande do Norte (RN) | Zenaide Maia | PSD | 2019 – 2027 |
+| Rio Grande do Sul (RS) | Hamilton Mourão | REPUBLICANOS | 2023 – 2031 |
+| Rio Grande do Sul (RS) | Luis Carlos Heinze | PP | 2019 – 2027 |
+| Rio Grande do Sul (RS) | Paulo Paim | PT | 2019 – 2027 |
+| Rondônia (RO) | Confúcio Moura | MDB | 2019 – 2027 |
+| Rondônia (RO) | Jaime Bagattoli | PL | 2023 – 2031 |
+| Rondônia (RO) | Marcos Rogério | PL | 2019 – 2027 |
+| Roraima (RR) | Chico Rodrigues | PSB | 2019 – 2027 |
+| Roraima (RR) | Dr. Hiran | PP | 2023 – 2031 |
+| Roraima (RR) | Roberta Acioly | REPUBLICANOS | 2019 – 2027 |
+| Santa Catarina (SC) | Esperidião Amin | PP | 2019 – 2027 |
+| Santa Catarina (SC) | Ivete da Silveira | MDB | 2019 – 2027 |
+| Santa Catarina (SC) | Jorge Seif | PL | 2023 – 2031 |
+| São Paulo (SP) | Astronauta Marcos Pontes | PL | 2023 – 2031 |
+| São Paulo (SP) | Giordano | PODE | 2019 – 2027 |
+| São Paulo (SP) | Mara Gabrilli | PSD | 2019 – 2027 |
+| Sergipe (SE) | Alessandro Vieira | MDB | 2019 – 2027 |
+| Sergipe (SE) | Laércio Oliveira | PP | 2023 – 2031 |
+| Sergipe (SE) | Rogério Carvalho | PT | 2019 – 2027 |
+| Tocantins (TO) | Eduardo Gomes | PL | 2019 – 2027 |
+| Tocantins (TO) | Irajá | PSD | 2019 – 2027 |
+| Tocantins (TO) | Professora Dorinha Seabra | UNIÃO | 2023 – 2031 |
+Representação Partidária e Correlação de Forças na Câmara dos Deputados
+A Câmara dos Deputados compõe-se de 513 parlamentares eleitos pelo sistema eleitoral proporcional em listas abertas, cuja base de assentos estaduais varia em função direta da população demográfica apurada em cada circunscrição eleitoral. Essa configuração impõe um limite de representação que transita do piso fixo de 8 deputados (para unidades territoriais de menor contingente como Acre, Amapá e Roraima) até o teto máximo de 70 representantes (pertencentes à bancada do Estado de São Paulo). A distribuição do plenário estrutura-se a partir de partidos e federações devidamente consolidadas perante o Colégio de Líderes e a Mesa Diretora.
+A tabela a seguir apresenta o peso relativo de cada agremiação partidária e federação na Câmara dos Deputados, detalhando o volume representativo de assentos parlamentares e sua postura institucional dominante de atuação:
+| Partido ou Federação Partidária | Cadeiras Típicas / Bancada | Papel Institucional e Alinhamento Político |
+|---|---|---|
+| Partido Liberal (PL) | 98 a 121 | Maior bancada partidária individual da Casa; lidera o polo de oposição de matriz conservadora. |
+| Federação Brasil da Esperança (PT, PCdoB, PV) | 82 a 88 | Núcleo primordial de governabilidade e base política de apoio ao Poder Executivo federal. |
+| Federação União Progressista (UNIÃO, PP) | 87 a 99 | Bloco hegemônico de centro-direita decisivo; comanda comissões de orçamento e infraestrutura. |
+| Partido Social Democrático (PSD) | 43 a 48 | Centro político articulador; possui ministérios e viabiliza pontes de diálogo interpartidário. |
+| Republicanos | 41 a 44 | Centro-direita pragmática; ocupa posições de relevância na Mesa Diretora e comissões estratégicas. |
+| Movimento Democrático Brasileiro (MDB) | 36 a 38 | Centro fisiológico tradicional; presença contínua em pastas de infraestrutura e desenvolvimento. |
+| Podemos (PODE) | 25 a 27 | Centro-direita independente, focado em medidas de probidade administrativa e segurança. |
+| Federação PSDB Cidadania | 11 a 19 | Centro a centro-direita de matriz liberal-democrática; postura moderada de oposição e independência. |
+| Partido Socialista Brasileiro (PSB) | 15 a 17 | Centro-esquerda; alinhamento substancial à governança federal e às pautas desenvolvimentistas. |
+| Federação PSOL REDE | 15 a 16 | Esquerda progressista governista independente; atuação temática em direitos civis e equilíbrio ambiental. |
+| Partido Democrático Trabalhista (PDT) | 6 a 10 | Centro-esquerda com base no trabalhismo histórico e em políticas voltadas aos trabalhadores. |
+| Partido Novo (NOVO) | 5 a 10 | Oposição de direita; defesa rigorosa de reformas liberais, contenção fiscal e privatizações. |
+| Avante | 5 a 7 | Centro pragmático; atuação orientada por demandas orçamentárias regionais e municipais. |
+| Federação Renovação Solidária (PRD, Solidariedade) | 6 a 7 | Centro a centro-direita; foco setorial e defesa de interesses municipais e corporativos. |
+| Partido Missão (MISSÃO) | 1 | Direita liberal renovadora; atuação pontual com pauta de transparência pública. |
+| Total do Plenário | 513 Parlamentares | Totalidade dos Assentos da Câmara Baixa |
+A articulação política no plenário da Câmara opera por meio de bancadas estaduais e lideranças de projeção nacional. No Estado de São Paulo, que detém 70 assentos, o cenário reflete a coexistência de correntes ideológicas plurais com figuras como Adriana Ventura pelo Novo, Erika Hilton e Sâmia Bomfim pela bancada do PSOL, Marcos Pereira e Guilherme Piai pelo Republicanos, Renata Abreu pelo Podemos, além de Kim Kataguiri pelo Missão. O Estado do Rio de Janeiro, com 46 cadeiras, abriga articuladores das bancadas conservadoras e da esquerda histórica, incluindo Sóstenes Cavalcante, Altineu Côrtes e Carlos Jordy pelo PL, Doutor Luizinho e Bebeto pelo Progressistas, ao lado de Lindbergh Farias e Diego Quaqua pelo PT, Jandira Feghali pelo PCdoB e Talíria Petrone pelo PSOL.
+Em Minas Gerais, cuja bancada compreende 53 deputados, atuam lideranças com perfil expressivo na condução da Casa, como Aécio Neves e Paulo Abi-Ackel pelo PSDB, Junio Amaral pelo PL, Fred Costa pelo PRD, Mário Heringer pelo PDT e Luis Tibé pelo Avante. No Estado da Bahia, com 39 parlamentares, a correlação de forças equilibra-se entre a articulação governista estadual e bancadas de centro-direita, figurando Antonio Brito pelo PSD, Elmar Nascimento e Arthur Maia pelo União Brasil, Alice Portugal e Daniel Almeida pelo PCdoB, Lídice da Mata pelo PSB, Diego Coronel e Márcio Marinho pelo Republicanos, ao lado de Adolfo Viana pelo PSDB. No Ceará, destacam-se André Fernandes pelo PL e Danilo Forte pelo PP. Na Paraíba, destacam-se Hugo Motta pelo Republicanos e Aguinaldo Ribeiro pelo PP. No Rio Grande do Sul, contam-se Maria do Rosário pelo PT, Pompeo de Mattos e Afonso Motta pelo PDT, e Afonso Hamm pelo PP. Em Alagoas, pontua a atuação política de Arthur Lira pelo PP e Isnaldo Bulhões Jr. pelo MDB.
+Quadro Partidário Nacional e Matrizes Ideológicas
+O Tribunal Superior Eleitoral (TSE) reconhece formalmente o registro estatutário definitivo de 30 partidos políticos em funcionamento no Brasil. A regulação dessas agremiações assenta-se na Lei nº 9.096/1995 (Lei dos Partidos Políticos), a qual estabelece a personalidade jurídica e a plena autonomia organizativa dos diretórios, enquanto a Emenda Constitucional nº 97/2017 submete as legendas à cláusula de desempenho nacional, impondo patamares mínimos de votação proporcional para acesso à partilha dos recursos do Fundo Especial de Assistência Financeira aos Partidos Políticos (Fundo Partidário) e ao horário eleitoral gratuito.
+A consolidação de blocos permanentes foi impulsionada pela aprovação da Lei nº 14.208/2021, que disciplinou as federações partidárias. Diversamente das coligações eleitorais proporcionais extintas, a federação vincula os partidos integrantes a uma unidade de ação e funcionamento programático em todos os níveis federativos por um período mínimo de quatro anos, funcionando sob liderança comum nos parlamentos. A tabela a seguir consolida a relação de todos os 30 partidos políticos registrados no TSE, fornecendo seus números de urna, denominações, lideranças formais e seu enquadramento político-ideológico:
+| Sigla | Número | Nome Oficial do Partido | Presidência Nacional / Liderança | Espectro Político e Matriz Ideológica |
+|---|---|---|---|---|
+| MDB | 15 | Movimento Democrático Brasileiro | Luiz Felipe Baleia Tenuto Rossi | Centro; pragmatismo fisiológico conciliador e sincretismo político (catch-all party). |
+| PDT | 12 | Partido Democrático Trabalhista | Carlos Roberto Lupi | Centro-esquerda; nacionalismo desenvolvimentista e trabalhismo tradicional getulista e brizolista. |
+| PT | 13 | Partido dos Trabalhadores | Edson Antônio (Edinho) da Silva | Esquerda; socialismo democrático, social-democracia e progressismo com base nos movimentos sociais. |
+| PCdoB | 65 | Partido Comunista do Brasil | Nádia Campeão (em exercício) | Esquerda a extrema-esquerda; marxismo-leninismo histórico e defesa da soberania nacional. |
+| PSB | 40 | Partido Socialista Brasileiro | João Henrique de Andrade Lima Campos | Centro-esquerda; socialismo democrático, reformismo social e planejamento estatal desenvolvimentista. |
+| PSDB | 45 | Partido da Social Democracia Brasileira | Aécio Neves da Cunha | Centro a centro-direita; social-democracia de terceira via, modernização administrativa e liberalismo reformista. |
+| AGIR | 36 | Agir (antigo PTC / PRN) | Daniel S. Tourinho | Centro a centro-direita; conservadorismo moderado e pragmatismo eleitoral regional. |
+| MOBILIZA | 33 | Mobilização Nacional (antigo PMN) | Antonio Carlos Bosco Massarollo | Centro; nacionalismo econômico moderado e políticas de integração comunitária. |
+| CIDADANIA | 23 | Cidadania (antigo PPS) | Alex Spinelli Manente | Centro; social-liberalismo, institucionalismo democrático e defesa dos direitos civis. |
+| PV | 43 | Partido Verde | José Luiz de França Penna | Centro-esquerda; ambientalismo ecológico, pacifismo e sustentabilidade econômica. |
+| AVANTE | 70 | Avante (antigo PTdoB) | Luis Henrique de Oliveira Resende (Luis Tibé) | Centro; populismo centrista e defesa do microempreendedorismo urbano. |
+| PP | 11 | Progressistas | Ciro Nogueira Lima Filho | Direita; conservadorismo político-social, alinhamento ao agronegócio e liberalismo econômico. |
+| PSTU | 16 | Partido Socialista dos Trabalhadores Unificado | José Maria de Almeida | Extrema-esquerda; trotskismo revolucionário operário e internacionalismo socialista. |
+|  | PCB | 21 | Partido Comunista Brasileiro | Edmilson Silva Costa |
+| PRTB | 28 | Partido Renovador Trabalhista Brasileiro | Leonardo Alves de Araújo | Direita a extrema-direita; nacionalismo conservador, tradicionalismo moral e militarismo. |
+| DC | 27 | Democracia Cristã | João Caldas da Silva (em exercício) | Centro-direita a direita; doutrina social da Igreja e conservadorismo democrático clássico. |
+| PCO | 29 | Partido da Causa Operária | Rui Costa Pimenta | Extrema-esquerda; trotskismo ortodoxo revolucionário e defesa intransigente do operariado. |
+| PODE | 20 | Podemos (absorveu PHS e PSC) | Renata Hellmeister de Abreu | Centro-direita; democracia participativa, combate à corrupção e pautas de eficiência fiscal. |
+| REPUBLICANOS | 10 | Republicanos (antigo PRB) | Marcos Antonio Pereira | Direita; conservadorismo social de base cristã, defesa da família tradicional e ordem pública. |
+|  | PSOL | 50 | Partido Socialismo e Liberdade | Paula Bermudes Moraes Coradi |
+| PL | 22 | Partido Liberal (absorveu PRONA) | Valdemar Costa Neto | Direita a extrema-direita; conservadorismo de ordem moral, bolsonarismo e liberalismo econômico. |
+| PSD | 55 | Partido Social Democrático | Gilberto Kassab | Centro; desenvolvimentismo pragmático, descentralização municipalista e equilíbrio fiscal. |
+| SOLIDARIEDADE | 77 | Solidariedade (incorporou o PROS) | Paulo Pereira da Silva (Paulinho da Força) | Centro a centro-esquerda; representação sindical, trabalhismo e conciliação de interesses produtivos. |
+| NOVO | 30 | Partido Novo | Eduardo Rodrigo Fernandes Ribeiro | Direita; liberalismo clássico radical, Estado mínimo, desregulamentação e privatizações. |
+| REDE | 18 | Rede Sustentabilidade | Paulo Roberto Lamac Junior | Centro-esquerda; sustentabilidade ambiental sistêmica, ética pública e progressismo civil. |
+| DEMOCRATA | 35 | Democrata (antigo PMB) | Suêd Haidar Nogueira | Centro; foco na inclusão participativa e formulação pragmática regional. |
+| UP | 80 | Unidade Popular | Leonardo Péricles Vieira Roque | Extrema-esquerda; socialismo científico, mobilização popular periférica e reforma urbana radical. |
+| UNIÃO | 44 | União Brasil (fusão DEM e PSL) | Antônio Eduardo Gonçalves de Rueda | Centro-direita a direita; liberalismo econômico pró-mercado e conservadorismo político-institucional. |
+| PRD | 25 | Partido Renovação Democrática (fusão PTB/Patriota) | Marcus Vinícius de Vasconcelos Ferreira | Direita; conservadorismo de costumes, nacionalismo cívico e anticomunismo estridente. |
+| MISSÃO | 14 | Partido Missão | Renan Antonio Ferreira dos Santos | Centro-direita a direita; liberalismo republicano e combate prioritário à corrupção estatal. |
+A arena institucional do TSE comporta cinco federações ativas que condicionam a atuação legislativa: a Federação Brasil da Esperança (FE Brasil), unindo PT, PCdoB e PV sob comando hegemônico da esquerda governista; a Federação União Progressista, resultante do alinhamento entre União Brasil e PP na centro-direita hegemônica; a Federação PSDB Cidadania, resguardando o polo do centro moderado; a Federação PSOL REDE, com foco nas pautas ambientais e na esquerda institucional; e a Federação Renovação Solidária, unindo formalmente o PRD e o Solidariedade em bases de sustentação corporativa e municipalista.
+Arquitetura Remuneratória e Parâmetros Orçamentários dos Agentes Políticos
+A fixação dos subsídios dos agentes políticos brasileiros rege-se pelo princípio da parcela remuneratória única insculpido no artigo 39, § 4º da Constituição da República, vedando formalmente o acréscimo de qualquer gratificação, adicional, abono, prêmio ou verba de representação com natureza estritamente salarial. O limite financeiro supremo é o teto remuneratório constitucional, atrelado ao valor dos subsídios mensais recebidos pelos Ministros do Supremo Tribunal Federal.
+O instrumento legal estruturador do ciclo de recomposição e equiparação dos mandatos federais é o Decreto Legislativo nº 172, de 21 de dezembro de 2022. Este ato normativo unificou e escalonou a evolução dos subsídios do Presidente da República, do Vice-Presidente, dos Ministros de Estado e dos parlamentares federais em quatro etapas sequenciais: R$ 39.293,32 a partir de janeiro de 2023; R$ 41.650,92 em abril de 2023; R$ 44.008,52 em fevereiro de 2024; até culminar em R$ 46.366,19 a partir de 1º de fevereiro de 2025, patamar mantido em vigor como o teto máximo da remuneração política brasileira.
+Remuneração do Poder Executivo e do Legislativo Federal
+A tabela abaixo compila a estrutura remuneratória e as dotações orçamentárias de suporte e apoio operacional conferidas aos agentes políticos federais nos termos do Decreto Legislativo nº 172/2022:
+| Cargo Político Federal | Subsídio Mensal Bruto | Valor Líquido Estimado | Custeio Operacional, Gabinete e Benefícios Estruturais |
+|---|---|---|---|
+| Presidente da República | R$ 46.366,19 | ~R$ 33.800,00 | Moradia oficial no Palácio da Alvorada, segurança institucional integral, transporte executivo por aeronaves da FAB, atendimento médico oficial e equipe de gabinete do Planalto. |
+| Vice-Presidente da República | R$ 46.366,19 | ~R$ 33.800,00 | Residência oficial no Palácio do Jaburu, escolta e assessoramento institucional permanente provido pelo Estado. |
+| Ministros de Estado | R$ 46.366,19 | ~R$ 33.800,00 | Veículo funcional de representação, residência de trânsito em Brasília ou auxílio-moradia funcional regulamentado e gabinete ministerial. |
+| Senador da República | R$ 46.366,19 | ~R$ 33.800,00 | CEAPS: R$ 36.600 a R$ 52.800/mês para passagens, alimentação e combustível; Verba de Gabinete: R$ 150.312,88/mês para contratação de até 50 assessores; Auxílio-Moradia: R$ 5.500,00/mês para quem não usa apartamento funcional; Ajuda de Custo: R$ 46.366,19 pago na posse e ao término do mandato de 8 anos; Assistência médica irrestrita pelo Sistema Integrado de Saúde (SIS). |
+| Deputado Federal | R$ 46.366,19 | ~R$ 33.800,00 | CEAP: R$ 30.700 a R$ 45.000+/mês (fixado conforme a distância aérea do estado a Brasília); Verba de Gabinete: R$ 125.460,26/mês para até 25 secretários parlamentares; Auxílio-Moradia: R$ 4.253,00/mês caso não resida nos 447 apartamentos funcionais da Câmara; Ajuda de Custo: R$ 46.366,19 concedida na instalação e encerramento da legislatura. |
+Subsídios dos Chefes do Poder Executivo Estadual
+A fixação dos subsídios dos Governadores decorre de legislação própria promulgada por cada uma das 27 Assembleias Legislativas estaduais e pela Câmara Legislativa do Distrito Federal. Em virtude dessa prerrogativa de descentralização federativa, os valores praticados no território nacional exibem expressiva disparidade de natureza orçamentária regional, oscilando do teto absoluto constitucional praticado pelo Estado de Sergipe até o menor valor nacional apurado no Estado do Rio Grande do Norte. A tabela seguinte detalha os subsídios mensais integrais recebidos pelos Governadores em todas as 27 Unidades da Federação:
+| Unidade da Federação (UF) | Subsídio Mensal do Governador |
+|---|---|
+| Sergipe (SE) | R$ 46.366,19 (Teto Constitucional Máximo) |
+| Acre (AC) | R$ 41.845,49 |
+| Minas Gerais (MG) | R$ 41.845,49 |
+| Bahia (BA) | R$ 36.894,89 |
+| São Paulo (SP) | R$ 36.301,53 |
+| Espírito Santo (ES) | R$ 36.165,63 |
+| Mato Grosso do Sul (MS) | R$ 35.462,27 |
+| Rio de Janeiro (RJ) | R$ 35.462,22 |
+| Rio Grande do Sul (RS) | R$ 35.462,22 |
+| Rondônia (RO) | R$ 35.462,22 |
+| Pará (PA) | R$ 35.363,55 |
+| Paraíba (PB) | R$ 35.032,58 |
+| Piauí (PI) | R$ 34.774,64 |
+| Roraima (RR) | R$ 34.299,00 |
+| Alagoas (AL) | R$ 34.262,58 |
+| Mato Grosso (MT) | R$ 34.100,55 |
+| Amazonas (AM) | R$ 34.070,00 |
+| Paraná (PR) | R$ 33.763,00 |
+| Goiás (GO) | R$ 33.428,12 |
+| Maranhão (MA) | R$ 33.006,39 |
+| Amapá (AP) | R$ 33.000,00 |
+| Tocantins (TO) | R$ 32.518,44 |
+| Distrito Federal (DF) | R$ 29.311,94 |
+| Santa Catarina (SC) | R$ 25.322,25 |
+| Ceará (CE) | R$ 22.878,41 |
+| Pernambuco (PE) | R$ 22.000,00 |
+| Rio Grande do Norte (RN) | R$ 21.914,76 (Menor subsídio nacional) |
+Subsídios dos Deputados Estaduais
+A remuneração dos Deputados Estaduais em todo o Brasil obedece ao mandamento constitucional vinculante insculpido no artigo 27, § 2º da Constituição Federal, o qual preconiza expressamente que o subsídio dos parlamentares das Assembleias Legislativas deve ser fixado na proporção máxima de 75% da remuneração de um Deputado Federal. Diante da consolidação do subsídio federal no patamar de R$ 46.366,19, o limite máximo nacional para os legisladores estaduais é obtido pelo seguinte cálculo:
+O valor padrão de R$ 34.774,64 é praticado de forma uniforme por quase todas as unidades da Federação. A literatura e as publicações orçamentárias registram apenas duas exceções decorrentes de peculiaridades normativas regionais: o Estado do Ceará, que instituiu o subsídio em R$ 34.776,64 (apresentando uma variação residual de R$ 2,00 oriunda de critérios de arredondamento aprovados formalmente no Ato Deliberativo nº 917/2022 de sua mesa parlamentar), e o Estado do Amapá, cuja legislação interna delimitou os pagamentos em R$ 33.448,40. Além do subsídio bruto ordinário, os legisladores estaduais dispõem de verbas indenizatórias de gabinete e cotas de atividade parlamentar que giram entre R$ 25.000,00 e R$ 40.000,00 mensais conforme os atos regulamentares de cada Assembleia.
+Subsídios Municipais: Parâmetros Constitucionais de Prefeitos e Vereadores
+A disciplina remuneratória nos mais de 5.500 municípios brasileiros subordina-se a freios orçamentários rígidos e a critérios de vinculação demográfica expressos na Constituição Federal. O subsídio dos Prefeitos Municipais é fixado por lei em sentido estrito de competência exclusiva da respectiva Câmara de Vereadores (artigo 29, V da Constituição), condicionado pelo teto supremo do funcionalismo público municipal e pelo limite de remuneração do Governador do Estado. Em metrópoles de expressivo porte fiscal e econômico, o valor percebido pelo Executivo local transita entre R$ 35.000,00 e R$ 38.000,00 brutos (a exemplo do Município de São Paulo, onde o subsídio é fixado em R$ 38.039,38), ao passo que em municípios de médio e pequeno porte a remuneração média praticada gravita na faixa de R$ 14.000,00 a R$ 25.000,00.
+No que tange aos Vereadores, o artigo 29, inciso VI da Carta Magna estabelece limites remuneratórios máximos indexados a um percentual decrescente do subsídio recebido pelos Deputados Estaduais do respectivo estado (atualmente estabelecido em R$ 34.774,64). A tabela abaixo discrimina as faixas populacionais obrigatórias e os tetos vigentes decorrentes da aplicação direta da regra constitucional:
+| Faixa Populacional do Município | Limite Constitucional Máximo para Vereadores | Teto Remuneratório Vigente |
+|---|---|---|
+| Até 10.000 habitantes | Até 20% do subsídio do Deputado Estadual | R$ 6.954,93 |
+| De 10.001 a 50.000 habitantes | Até 30% do subsídio do Deputado Estadual | R$ 10.432,39 |
+| De 50.001 a 100.000 habitantes | Até 40% do subsídio do Deputado Estadual | R$ 13.909,86 |
+| De 100.001 a 300.000 habitantes | Até 50% do subsídio do Deputado Estadual | R$ 17.387,32 |
+| De 300.001 a 500.000 habitantes | Até 60% do subsídio do Deputado Estadual | R$ 20.864,78 |
+| Acima de 500.000 habitantes | Até 75% do subsídio do Deputado Estadual | R$ 26.080,98 |
+Além das barreiras demográficas individuais, o ordenamento fiscal impõe duas travas coletivas fundamentais sob a égide do artigo 29-A da Constituição da República. A primeira estabelece que o montante global de todos os subsídios pagos aos vereadores não pode ultrapassar o teto financeiro de 5% da receita arrecadada pelo município no exercício anterior. A segunda determina que a Câmara Municipal não pode gastar mais de 70% de sua receita tributária corrente repassada com a folha de pagamento de pessoal, incluindo os mandatos políticos, configurando crime de responsabilidade contra o Presidente do Legislativo o descumprimento de tal indicador fiscal.
+No contexto do Estado de São Paulo e, especificamente, do município de Francisco Morato — situado na Região Metropolitana paulista —, as disposições constitucionais incidem com precisão. O município conta com um contingente populacional na faixa de 170.000 a 175.000 habitantes, o que o insere na categoria demográfica de 100.001 a 300.000 habitantes (artigo 29, VI, alínea d da Constituição). Consequentemente, o limite remuneratório máximo para cada um dos seus 12 vereadores é legalmente balizado em 50% do subsídio do deputado paulista, perfazendo o teto nominal superior de R$ 17.387,32 brutos mensais. Em termos de gestão orçamentária efetiva e adequação à capacidade de arrecadação local, o Legislativo municipal de Francisco Morato estabelece os subsídios reais abaixo desse patamar de teto (fixados na faixa de R$ 10.000,00 a R$ 12.000,00 brutos), enquanto o subsídio do Chefe do Poder Executivo (Prefeito) opera na faixa entre R$ 21.000,00 e R$ 24.000,00 brutos, cumprindo os parâmetros da Lei de Responsabilidade Fiscal e os preceitos do Tribunal de Contas do Estado de São Paulo.
+Conclusões e Implicações Sistêmicas
+A articulação entre os Três Poderes, os ritos processuais parlamentares e as tabelas de remuneração do Estado brasileiro revela um padrão complexo de governança institucional. Em primeiro plano, a estabilidade do presidencialismo de coalizão apoia-se em mecanismos regimentais formais: os poderes de controle de pauta atribuídos aos Presidentes da Câmara e do Senado, o sobrestamento de proposições e a prerrogativa de deliberação conclusiva pelas comissões constituem instrumentos de governabilidade sem os quais o Poder Executivo não seria capaz de articular suas políticas públicas em um Congresso fragmentado em múltiplos blocos e federações.
+Em segundo plano, a arquitetura remuneratória delineada pelo Decreto Legislativo nº 172/2022 e pela Constituição de 1988 estabelece uma vinculação vertical direta em cadeia. O patamar de R$ 46.366,19 instituído no topo dos Poderes federais projeta um efeito cascata imediato que condiciona o teto de R$ 34.774,64 nas Assembleias Legislativas estaduais, o qual, por sua vez, rege os limites máximos dos subsídios de milhares de vereadores no âmbito municipal.
+Por fim, emerge uma nítida assimetria orçamentária entre as instâncias federativas. Enquanto os entes centralizados da União e dos Estados operam com subsídios alinhados aos tetos constitucionais em face de suas amplas capacidades arrecadatórias, os municípios brasileiros veem-se constrangidos por travas demográficas e limites estritos da receita tributária corrente. Essa discrepância evidencia que o equilíbrio das contas públicas municipais depende da retenção dos valores salariais em patamares substancialmente inferiores aos limites máximos permitidos pela Carta Magna, resguardando a higidez financeira diante das demandas locais.
